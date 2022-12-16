@@ -1,0 +1,29 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Prouger-App/server/Models"
+		},
+		{
+			"path": "../../Prouger-App/server/node_modules"
+		},
+		{
+			"path": "../../Prouger-App/server/utils"
+		},
+		{
+			"path": "../../Prouger-App/server/Middleware"
+		},
+		{
+			"path": "../../Prouger-App/server/Routes"
+		},
+		{
+			"path": "../../Prouger-App/server/data"
+		},
+		{
+			"path": "../../Prouger-App/server/config"
+		}
+	],
+    "settings": {}
+}
